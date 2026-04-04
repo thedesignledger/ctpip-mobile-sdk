@@ -142,4 +142,4 @@ src/
 
 Apache 2.0
 
-sealed.energy | designledger.co | time.foundation
+designledger.co | sealed.energy | time.foundation
